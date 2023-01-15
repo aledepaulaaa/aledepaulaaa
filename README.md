@@ -12,6 +12,7 @@
     - Sass
     - React.js.
     - Typescript
+    - MySQL
     
 - 🌱 Ainda quero começar a estudar e desenvolver projetos este ano:
     - React-Native
