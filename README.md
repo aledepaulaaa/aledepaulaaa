@@ -6,7 +6,7 @@
 
 - 🌱 Estou finalizando minha graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (4° período).
 
-- 🌱 Tecnologias que que estou estudando e praticando:
+- 🌱 Tecnologias que estou estudando e praticando:
     - Javascript (não pode faltar, é a base de tudo!)
     - Node.js,
     - Sass
