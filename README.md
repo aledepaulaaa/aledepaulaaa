@@ -1,6 +1,6 @@
 ### Ola me chamo Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais para me candidatar para vagas Front-End:
+<h1> Atualmente estou: </h1>
 
     - Atualizando meu portfólio.
 
@@ -18,3 +18,5 @@
     - Java
     - PHP
     - MongoDB
+
+Estou me preparando para me candidatar a vagas de Desenvolvedor Front-End !
