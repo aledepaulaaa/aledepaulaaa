@@ -1,11 +1,20 @@
-### Ola sou o Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
+### Ola me chamo Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais:
-    - 1 Construindo um site de consultas médicas (este projeto é em conjunto com minha família).
-    - 2 Atualizando meu portfólio.
+- 🔭 Atualmente estou trabalhando em projetos pessoais para me candidatar para vagas Front-End:
+
+    - Atualizando meu portfólio.
+
+- 🌱 Estou finalizando minha graduação de Tecnólogo Análise e Desenvolvimento de Sistemas (4° período).
+
+- 🌱 Tecnologias que que estou estudando e praticando:
+    - Javascript (não pode faltar, é a base de tudo!)
+    - Node.js,
+    - Sass
+    - React.js.
+    - Typescript
     
-- 🔭 Além de projetos pessoais, estou me candidatando a vagas de trabalho Front-End.
-
-- 🌱 Estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas.
-
-- 🌱 Estou estudando também, ReactJS, Sass, Javascript e NodeJS.
+- 🌱 Ainda quero começar a estudar e desenvolver projetos este ano:
+    - React-Native
+    - Java
+    - PHP
+    - MongoDB
