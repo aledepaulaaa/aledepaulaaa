@@ -1,4 +1,4 @@
-### Ola me chamo Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
+### Olá me chamo Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
 
 <h1> Atualmente estou: </h1>
 
