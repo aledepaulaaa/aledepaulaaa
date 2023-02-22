@@ -19,6 +19,3 @@
 - 🌱 Ainda quero começar a estudar e desenvolver projetos este ano:
     - Java
     - PHP
-
-
-- New update 22/02/2023: ainda desempregado &#128557;
