@@ -2,22 +2,23 @@
 
 <h1> Atualmente estou: </h1>
 
-    - Atualizando meu portfólio.
 
-- 🌱 Estou finalizando minha graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (4° período).
+- 🌱 Estou finalizando minha graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (4° período falta uma matéria).
 
 - 🌱 Tecnologias que estou estudando e praticando:
-    - Javascript (não pode faltar, é a base de tudo!)
-    - Node.js,
+    - Javascript (não pode faltar!)
+    - NodeJs
     - Sass
-    - React.js.
+    - ReactJs
+    - React-Native
+    - VueJs
     - Typescript
     - MySQL
+    - MongoDB
     
 - 🌱 Ainda quero começar a estudar e desenvolver projetos este ano:
-    - React-Native
     - Java
     - PHP
-    - MongoDB
 
-Estou me preparando para me candidatar a vagas de Desenvolvedor Front-End !
+
+- New update 22/02/2023: ainda desempregado &#128557;
