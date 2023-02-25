@@ -2,7 +2,7 @@
 
 <h1> Atualmente estou: </h1>
 
-- 🌱 Estou finalizando minha graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (4° período falta uma matéria).
+- 🌱 Finalizando minha graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (4° período falta uma matéria).
 
 - 🌱 Tecnologias que estou estudando e praticando:
     - Javascript (não pode faltar!)
