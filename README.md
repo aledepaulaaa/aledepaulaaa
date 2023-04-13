@@ -1,6 +1,6 @@
 ### Olá me chamo Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
 
-<h1> Como estou Atualmente: </h1>
+<h1> Como estou Atualmente: Abril 2023 </h1>
 
 - 🌱 Job atual: Desenvolvedor Front-End Jr em Jr Silveira Tecnologia
 
