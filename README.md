@@ -2,8 +2,7 @@
 
 <h1> Como estou Atualmente: 2023 </h1>
 
-- 🌱 Último Job CLT: Desenvolvedor Front-End Jr em (Rede Odonto)
--  Abril 2023 a Junho 2023
+- 🌱 Último Job CLT: Desenvolvedor Front-End Jr em (Rede Odonto) - Abril 2023 a Junho 2023
 
 - 🌱 Tecnologias que estou trabalhando e estudando:
     - Typescript
