@@ -15,7 +15,7 @@
     <hr>
     
 <h3>Projetos publicados (que funcionam) e também que são focados em situações reais de uso:</h3>
-- &#x2615; <b>Pokedex</b> - API pública (pokeapi) para busca de Pokemons feita com VueJs: <br>https://github.com/aledepaulaaa/pokedexapp-buscar-pokemons
+- &#x2615; <b>Pokedex</b> - API pública (pokeapi) para busca de Pokemons feita com VueJs: <br> https://pokedexapp-buscar-pokemons.vercel.app/
 <br>
 - &#x2615; <b>Blog de Artigos</b> - Feito com base em NodeJs no qual fiz um CRUD completo: <br> https://github.com/aledepaulaaa/blog-nodejs-crudcompleto
 <br>
