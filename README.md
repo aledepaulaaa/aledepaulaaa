@@ -1,16 +1,17 @@
 ### Olá me chamo Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
 
-<h1> Como estou Atualmente: Abril 2023 </h1>
+<h1> Como estou Atualmente: 2023 </h1>
 
-- 🌱 Job atual: Desenvolvedor Front-End Jr em Jr Silveira Tecnologia
+- 🌱 Último Job CLT: Desenvolvedor Front-End Jr em (Rede Odonto)
+-  Abril 2023 a Junho 2023
 
 - 🌱 Tecnologias que estou trabalhando e estudando:
     - Typescript
     - ReactJs
-    - Material UI
+    - React Native
     - Javascript (não pode faltar!)
 
-- 🌱 Finalizando minha graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas (4° período falta uma matéria).
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas
 
     <hr>
     
