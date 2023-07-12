@@ -24,7 +24,6 @@
 - &#x2615; <b>Gerador de código</b> - Gerador de código randômico em Javascript: <br> https://aledepaulaaa.github.io/javascript_generate_random_code/
 <br>
 - &#x2615; <b>App de Deslocamento</b> - Aplicação de deslocamento que apliquei em uma vaga para Front End ReactJs: <br> https://app-deslocamento-nine.vercel.app/home/
-<hr>
 
 ![Ale-icons](https://github.com/aledepaulaaa/aledepaulaaa/assets/88629170/d8020496-4aa2-475a-8b1d-5cae545e4aa4)
 
