@@ -2,15 +2,17 @@
 
 <h1> Como estou Atualmente: 2023 </h1>
 
-- 🌱 Último Job CLT: Desenvolvedor Front-End Jr em (Rede Odonto) - Abril 2023 a Junho 2023
+- 🌜 Último Job CLT: Desenvolvedor Front-End Jr em (Rede Odonto) - Abril 2023 a Junho 2023
 
-- 🌱 Tecnologias que estou trabalhando e estudando:
+- 👨‍💻 Tecnologias de peso que estou trabalhando e estudando:
     - Typescript
     - ReactJs
     - React Native
-    - Javascript (não pode faltar!)
+    - Javascript (não pode faltar 📌)
+    - C# com ASP.NET Core MVC (estou amando 💙)
 
-- 🌱 Graduado em Análise e Desenvolvimento de Sistemas
+- 🥇 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎨 Experiência em UI UX Design - by Figma: https://www.figma.com/@aledepaula
 
     <hr>
     
