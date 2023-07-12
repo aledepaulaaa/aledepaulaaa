@@ -26,4 +26,4 @@
 - &#x2615; <b>App de Deslocamento</b> - Aplicação de deslocamento que apliquei em uma vaga para Front End ReactJs: <br> https://app-deslocamento-nine.vercel.app/home/
 
 
-![home](https://github.com/aledepaulaaa/aledepaulaaa/assets/88629170/47413728-c040-431c-b26e-fb7dedb996fb)
+![home](https://github.com/aledepaulaaa/aledepaulaaa/assets/88629170/47413728-c040-431c-b26e-fb7dedb996fb/https://portifolioaledepaula.web.app/)
