@@ -20,9 +20,7 @@
     
 <h3>Projetos publicados e trabalhos profissionais realizados:</h3>
 - &#x2615; <b>Pokedex</b> - API pública (pokeapi) para busca de Pokemons feita com VueJs: <br> https://pokedexapp-buscar-pokemons.vercel.app/
-<br><br>
-- &#x2615; <b>App de Deslocamento</b> - Aplicação de deslocamento que apliquei em uma vaga para Front End ReactJs: <br> https://app-deslocamento-nine.vercel.app/home/
-<br><br>
+<br>
 - &#x2615; <b>Sistema de Validação de WhatsApp + Landing Page</b> - Sistema para Validação de Números de WhatsApp + Página de Vendas <br> (em construção)
 
 ![Ale-icons](https://github.com/aledepaulaaa/aledepaulaaa/assets/88629170/d8020496-4aa2-475a-8b1d-5cae545e4aa4)
