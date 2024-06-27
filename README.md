@@ -9,7 +9,6 @@
 - 📝 Portfolio will be updated with new work and improved for professional contacts: https://portifolioaledepaula.web.app/
 
   <hr>
-<h1> Bem-vindo(a) 💎 </h1>
 - 🌜 Bem vindo ao meu perfil, ele será atualizado assim que possível!
 - 🥇 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎨 Experiência em UI UX Design - por Figma: https://www.figma.com/@aledepaula
