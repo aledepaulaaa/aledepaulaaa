@@ -15,7 +15,3 @@
 - 🎨 Experience in UI UX Design - by Figma: https://www.figma.com/@aledepaula
 
   <hr>
-
-![Ale-icons](https://github.com/aledepaulaaa/aledepaulaaa/assets/88629170/d8020496-4aa2-475a-8b1d-5cae545e4aa4)
-
-
