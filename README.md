@@ -6,5 +6,12 @@
 - 🥇 Graduated in Systems Analysis and Development
 - 🎨 Experience in UI UX Design - by Figma: https://www.figma.com/@aledepaula
 - 🧑‍🏭 Finishing important work (06/26/2024) 🔥
+- 📝 Portfolio will be updated with new work and improved for professional contacts
 
   <hr>
+
+  - 🌜 Bem vindo ao meu perfil, ele será atualizado assim que possível!
+- 🥇 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎨 Experiência em UI UX Design - por Figma: https://www.figma.com/@aledepaula
+- 🧑‍🏭 Finalizando trabalho importante (26/06/2024) 🔥
+- 📝 Portfólio será atualizado com novos trabalhos e aprimorado para contatos profissionais
