@@ -10,7 +10,7 @@
 
   <hr>
 
-  - 🌜 Bem vindo ao meu perfil, ele será atualizado assim que possível!
+- 🌜 Bem vindo ao meu perfil, ele será atualizado assim que possível!
 - 🥇 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎨 Experiência em UI UX Design - por Figma: https://www.figma.com/@aledepaula
 - 🧑‍🏭 Finalizando trabalho importante (26/06/2024) 🔥
