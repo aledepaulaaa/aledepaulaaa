@@ -1,4 +1,4 @@
-### Hello, my name is Alexandre de Paula <img src="https://img.icons8.com/arcade/32/000000/pizza.png"/>
+### Hello, my name is Alexandre de Paula 👨‍💻
 
 <h1> Welcome 💎 </h1>
 
