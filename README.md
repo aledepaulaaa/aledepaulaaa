@@ -2,15 +2,11 @@
 
 <h1> Welcome 💎 </h1>
 
-- 🌜 Welcome to my profile, it will be updated as soon as possible!
-- 🥇 Graduated in Systems Analysis and Development
-- 🎨 Experience in UI UX Design - by Figma: https://www.figma.com/@aledepaula
-- 🧑‍🏭 Finalizing professional work for clients. Status update (06/26/2024) 🔥
-- 📝 Portfolio will be updated with new work and improved for professional contacts: https://portifolioaledepaula.web.app/
+- 🌜 Hello, this is my Github!
+- 🎨 Experience in UI UX Design - Figma Profile: https://www.figma.com/@aledepaula
+- 📝 Portfolio: https://www.alexandredesenvolvedor.com/
 
   <hr>
-- 🌜 Bem vindo ao meu perfil, ele será atualizado assim que possível!
-- 🥇 Graduado em Análise e Desenvolvimento de Sistemas
-- 🎨 Experiência em UI UX Design - por Figma: https://www.figma.com/@aledepaula
-- 🧑‍🏭 Finalizando trabalhos profissionais para clientes. Atualização de status (26/06/2024) 🔥
-- 📝 Portfólio será atualizado com novos trabalhos e aprimorado para contatos profissionais: https://portifolioaledepaula.web.app/
+- 🌜 Olá, este é meu Github!
+- 🎨 Experiência em UI UX Design - Perfil Figma: https://www.figma.com/@aledepaula
+- 📝 Portfólio: https://www.alexandredesenvolvedor.com/
