@@ -10,3 +10,8 @@
 - 🌜 Olá, este é meu Github!
 - 🎨 Experiência em UI UX Design - Perfil Figma: https://www.figma.com/@aledepaula
 - 📝 Portfólio: https://www.alexandredesenvolvedor.com/
+  <hr>
+
+  - 👨‍💻 Software Development: Javascript, Python, Typescript, Java, PHP
+  - 🎨 Front-End Development: ReactJs, Typescript, Material UI, HTML, CSS, Javascript
+  - 👨‍💻 Back-End Development: Javascript, Java, Python, PHP, Typescript.
