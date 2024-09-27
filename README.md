@@ -14,4 +14,4 @@
 
   - 👨‍💻 Software Development: Javascript, Python, Typescript, Java, PHP
   - 🎨 Front-End Development: ReactJs, Typescript, Material UI, HTML, CSS, Javascript
-  - 👨‍💻 Back-End Development: Javascript, Java, Python, PHP, Typescript.
+  - 👨‍💻 Back-End Development: Javascript, Java, Python, PHP, Typescript
