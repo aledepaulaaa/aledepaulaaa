@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aledepaulaaa">
-    <img src="https://github.com/user-attachments/assets/c163943c-0e76-4d10-b262-1a4dd251cb1e"  width="250" alt="Ilustração de um programador em um computador">
+    <img src="https://github.com/user-attachments/assets/c163943c-0e76-4d10-b262-1a4dd251cb1e"  width="100%" alt="Ilustração de um programador em um computador">
   </a>
 </div>
 
