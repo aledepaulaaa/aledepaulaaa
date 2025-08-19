@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aledepaulaaa">
-    <img src="https://github.com/user-attachments/assets/c163943c-0e76-4d10-b262-1a4dd251cb1e"  width="100%" alt="Ilustração de um programador em um computador">
+    <img src="https://github.com/user-attachments/assets/c163943c-0e76-4d10-b262-1a4dd251cb1e" width="100%" alt="Ilustração de um programador em um computador">
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 <h3 align="center">Desenvolvedor Web Full Stack & UI/UX Designer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aledepaula-software-engineer-web-developer/">
+  <a href="https://www.linkedin.com/in/aledepaulaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://aledevdepaula.web.app/">
@@ -72,10 +72,10 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
   <a href="https://aledevdepaula.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"/>
   </a>
-  <a href="https://www.linkedin.com/in/[seu_linkedin]/" target="_blank">
+  <a href="https://www.linkedin.com/in/aledepaulaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[seu_email]@[provedor].com">
+  <a href="mailto:contatoaledev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
