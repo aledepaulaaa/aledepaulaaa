@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aledepaulaaa">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png" width="250" alt="Ilustração de um programador em um computador">
+    <img src="https://github.com/user-attachments/assets/c163943c-0e76-4d10-b262-1a4dd251cb1e"  width="250" alt="Ilustração de um programador em um computador">
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Com mais de [insira o número de anos] anos de experiência, sou um Desenvolvedor Full Stack apaixonado por criar soluções digitais robustas e escaláveis. Minha expertise abrange todo o ciclo de vida do desenvolvimento de software, desde a concepção e design de interfaces até a implementação e manutenção de sistemas complexos. Combino sólidos conhecimentos em programação com uma visão de UI/UX Design para entregar produtos que são tanto eficientes quanto elegantes.
+Sou um Desenvolvedor Full Stack apaixonado por criar soluções digitais robustas e escaláveis. Minha expertise abrange todo o ciclo de vida do desenvolvimento de software, desde a concepção e design de interfaces até a implementação e manutenção de sistemas complexos. Combino sólidos conhecimentos em programação com uma visão de UI/UX Design para entregar produtos que são tanto eficientes quanto elegantes.
 
 ## 🛠️ Minha Stack
 Aqui estão algumas das principais tecnologias com as quais trabalho:
