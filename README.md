@@ -20,9 +20,8 @@
 ---
 
 ## 🚀 About Me
-I am a Full Stack Developer passionate about transforming complex business workflows into intuitive interfaces and efficient processes. With solid experience in **React, Next.js, and Node.js**, my focus lies in creating operational dashboards and high-availability integrations.
 
-Throughout my journey, I have developed solutions ranging from real-time telemetry (**Rastrear Já**) to financial and tax automation systems (**I.A.R.A** and **NF Integrators**). My key differentiator is bridging the gap between technical backend precision and a sharp eye for **UI/UX Design**.
+A developer and technology enthusiast who has been observing, learning, and putting into practice ideas and strategies to solve existing software development problems for businesses and build innovative solutions from scratch, using best practices and market-oriented techniques.
 
 ## 🛠️ My Stack
 
