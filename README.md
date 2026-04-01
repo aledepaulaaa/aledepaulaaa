@@ -12,11 +12,8 @@
   <a href="https://www.linkedin.com/in/aledepaulaa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://aledevdepaula.web.app/">
+  <a href="https://aledepauladev.com/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge">
-  </a>
-  <a href="https://github.com/aledepaulaaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
