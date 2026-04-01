@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/aledepaulaaa">
-    <img src="https://github.com/user-attachments/assets/c163943c-0e76-4d10-b262-1a4dd251cb1e" width="100%" alt="Programmer at computer illustration">
+   <img width="1200" height="630" alt="capa_ingles" src="https://github.com/user-attachments/assets/28843c5d-cb0d-4601-bdbb-41c3de103a47" />
   </a>
 </div>
 
