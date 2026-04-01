@@ -52,7 +52,7 @@ A developer and technology enthusiast who has been observing, learning, and putt
 
 ## 📬 Connect With Me
 <div align="center">
-  <a href="https://aledevdepaula.web.app/" target="_blank">
+  <a href="https://aledepauladev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/aledepaulaa/" target="_blank">
